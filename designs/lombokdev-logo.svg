@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="203.19554"
+     inkscape:cx="103.2261"
      inkscape:cy="56.452876"
      inkscape:document-units="px"
      inkscape:current-layer="g1496"
@@ -63,7 +63,7 @@
        id="g5950">
       <g
          id="g853"
-         transform="matrix(0.16963008,0,0,0.16963008,281.40204,148.37303)">
+         transform="matrix(0.09328972,0,0,0.09328972,303.16719,173.17603)">
         <g
            transform="rotate(-7.3051359)"
            style="font-style:normal;font-weight:normal;font-size:223.04838562px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -170,19 +170,19 @@
          inkscape:export-xdpi="2001.4048"
          inkscape:export-ydpi="2001.4048">
         <rect
-           style="opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:1.20072722;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.90663129;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
            id="rect868"
-           width="87.938507"
-           height="90.966782"
-           x="260.61896"
-           y="-28.647028"
-           ry="2.1745417"
+           width="66.399597"
+           height="68.68615"
+           x="339.31335"
+           y="68.00206"
+           ry="1.641928"
            inkscape:export-filename="/home/khairulimam/workspaces/lombokdev/assets/designs/outs/lombokdev-squared-black-hd.png"
            inkscape:export-xdpi="1999.7533"
            inkscape:export-ydpi="1999.7533" />
         <g
            id="g883"
-           transform="matrix(0.61570032,0,0,0.61570032,118.12346,-22.038441)"
+           transform="matrix(0.46489591,0,0,0.46489591,231.71946,72.991994)"
            inkscape:export-filename="/home/khairulimam/workspaces/lombokdev/assets/designs/outs/lombokdev-squared-black-hd.png"
            inkscape:export-xdpi="1999.7533"
            inkscape:export-ydpi="1999.7533">
@@ -260,7 +260,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.11364513,0,0,0.11364513,432.06852,178.12518)"
+         transform="matrix(0.06250025,0,0,0.06250025,386.02769,189.53852)"
          id="g1553">
         <g
            transform="matrix(5.1024086,0,0,5.1024086,-470.0995,1104.6643)"
