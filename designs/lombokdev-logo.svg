@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="102.34411"
-     inkscape:cy="36.245182"
+     inkscape:zoom="1.979899"
+     inkscape:cx="203.19554"
+     inkscape:cy="56.452876"
      inkscape:document-units="px"
-     inkscape:current-layer="g5950"
+     inkscape:current-layer="g1496"
      showgrid="false"
      width="200mm"
      units="px"
@@ -165,75 +165,98 @@
       </g>
       <g
          transform="matrix(0.83280993,0,0,0.83284737,174.88705,136.02773)"
-         id="g1496">
+         id="g1496"
+         inkscape:export-filename="/home/khairulimam/workspaces/lombokdev/assets/designs/outs/lombokdev-hd.png"
+         inkscape:export-xdpi="2001.4048"
+         inkscape:export-ydpi="2001.4048">
+        <rect
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:1.20072722;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect868"
+           width="87.938507"
+           height="90.966782"
+           x="260.61896"
+           y="-28.647028"
+           ry="2.1745417"
+           inkscape:export-filename="/home/khairulimam/workspaces/lombokdev/assets/designs/outs/lombokdev-squared-black-hd.png"
+           inkscape:export-xdpi="1999.7533"
+           inkscape:export-ydpi="1999.7533" />
         <g
-           style="fill:#007bff;fill-opacity:1"
-           inkscape:export-ydpi="96"
-           inkscape:export-xdpi="96"
-           id="g1138"
-           transform="matrix(0.16111717,0,0,0.16111717,222.29121,-25.855869)">
-          <path
-             d="m 592.20698,593.87198 v 7.46242 H 588.994 q -12.9038,0 -17.30869,-3.83485 -4.35311,-3.83484 -4.35311,-15.2876 v -12.38558 q 0,-7.82519 -2.7984,-10.8309 -2.79843,-3.0057 -10.15722,-3.0057 h -3.16116 v -7.41061 h 3.16116 q 7.4106,0 10.15722,-2.95389 2.7984,-3.00571 2.7984,-10.72726 v -12.43739 q 0,-11.45276 4.35311,-15.23579 4.40489,-3.83485 17.30869,-3.83485 h 3.21298 v 7.4106 h -3.52393 q -7.30697,0 -9.53532,2.28018 -2.22836,2.28021 -2.22836,9.58717 v 12.85194 q 0,8.13614 -2.38385,11.81553 -2.33199,3.67939 -8.03246,4.97497 5.75229,1.39922 8.08428,5.07861 2.33203,3.67939 2.33203,11.76368 v 12.85197 q 0,7.30697 2.22836,9.58718 2.22835,2.28017 9.53532,2.28017 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="path1128"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 667.71232,550.65206 q 0,8.2916 -2.69476,14.51029 -2.6948,6.2187 -7.46246,10.46813 -4.76766,4.1458 -11.2973,6.32234 -6.42597,2.07289 -13.99207,2.07289 h -20.21072 v -66.64366 h 20.21072 q 7.98068,0 14.51029,2.28017 6.52965,2.28018 11.19367,6.52965 4.66402,4.24943 7.15151,10.46813 2.59112,6.11502 2.59112,13.99206 z m -13.68115,0 q 0,-22.69824 -21.76544,-22.69824 h -6.5296 v 45.50013 h 6.5296 q 21.76544,0 21.76544,-22.80189 z"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="path1130"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 679.42418,584.02571 v -66.64366 h 43.94545 v 10.57177 H 692.5871 v 16.47955 h 28.91691 v 10.05354 H 692.5871 v 18.96704 h 31.71534 v 10.57176 z"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="path1132"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 772.49733,584.02571 h -16.27227 l -24.56383,-66.64366 h 14.71756 l 18.34517,51.3042 18.55242,-51.3042 h 14.61396 z"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="path1134"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 812.19332,593.87198 h 3.62757 q 7.25515,0 9.43168,-2.22835 2.22836,-2.22839 2.22836,-9.639 v -12.85197 q 0,-8.08429 2.33203,-11.76368 2.33199,-3.67939 8.08431,-5.07861 -5.75232,-1.29558 -8.08431,-4.97497 -2.33203,-3.67939 -2.33203,-11.81553 v -12.85194 q 0,-7.35878 -2.22836,-9.58717 -2.17653,-2.28018 -9.43168,-2.28018 h -3.62757 v -7.4106 h 3.2648 q 12.9038,0 17.20505,3.83485 4.35311,3.78303 4.35311,15.23579 v 12.43739 q 0,7.72155 2.7984,10.72726 2.79843,2.95389 10.15722,2.95389 h 3.21298 v 7.41061 h -3.21298 q -7.35879,0 -10.15722,3.0057 -2.7984,3.00571 -2.7984,10.8309 v 12.38558 q 0,11.45276 -4.35311,15.2876 -4.30125,3.83485 -17.20505,3.83485 h -3.2648 z"
-             style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="path1136"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           style="fill:#000000"
-           inkscape:export-ydpi="96"
-           inkscape:export-xdpi="96"
-           id="g1152"
-           transform="matrix(0.16111717,0,0,0.16111717,222.29121,-25.855869)">
-          <path
-             id="path1140"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 146.815,585.68424 v -66.64367 h 13.68112 v 56.0719 h 30.16067 v 10.57177 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path1142"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 261.13533,552.31058 q 0,7.56606 -2.07289,13.88843 -2.0729,6.32234 -6.11506,10.98636 -4.04213,4.56038 -9.94991,7.1515 -5.80411,2.59109 -13.3702,2.59109 -7.98065,0 -13.99206,-2.69476 -5.90775,-2.7984 -9.84627,-7.46242 -3.93849,-4.66402 -5.90775,-10.98635 -1.96926,-6.32234 -1.96926,-13.47385 0,-7.56609 2.0729,-13.88842 2.17653,-6.32234 6.21869,-10.88272 4.04216,-4.56038 9.94991,-7.15151 5.90778,-2.59112 13.47384,-2.59112 7.87704,0 13.78479,2.79843 6.01142,2.69477 9.84627,7.46243 3.93852,4.66402 5.90774,10.98635 1.96926,6.2187 1.96926,13.26656 z m -13.99206,0 q 0,-23.94197 -17.516,-23.94197 -17.61964,0 -17.61964,23.94197 0,24.04561 17.61964,24.04561 17.516,0 17.516,-24.04561 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path1144"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 332.65033,585.68424 v -55.3464 l -16.79046,55.3464 h -13.3702 l -16.79047,-55.3464 v 55.3464 h -12.85197 v -66.64367 h 22.07634 l 14.30302,48.19489 14.30301,-48.50584 h 22.17999 v 66.95462 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path1146"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 409.34758,568.47919 q 0,4.24943 -2.17654,7.46242 -2.17653,3.21302 -5.49319,5.38955 -3.31663,2.17654 -7.25515,3.31663 -3.93848,1.03645 -7.46242,1.03645 H 358.6652 v -66.64367 h 27.36227 q 3.93852,0 7.56609,1.03645 3.62758,1.03645 6.32234,3.10935 2.7984,1.96922 4.45674,5.07857 1.65831,3.00571 1.65831,7.04787 0,3.31662 -1.14008,5.80411 -1.03645,2.38385 -2.79844,4.24943 -1.76195,1.86563 -4.24943,3.31666 -2.38385,1.34737 -4.97497,2.48749 3.62757,1.14008 6.63328,2.48745 3.00571,1.3474 5.18225,3.42029 2.17653,1.96927 3.42029,4.76766 1.24373,2.79844 1.24373,6.63329 z M 392.3498,538.00757 q 0,-2.17654 -0.93277,-3.73121 -0.93281,-1.55467 -2.38385,-2.59112 -1.45104,-1.03645 -3.31662,-1.55468 -1.76199,-0.51822 -3.62758,-0.51822 h -9.74263 v 16.47955 h 8.80982 q 2.0729,0 4.04216,-0.51823 2.0729,-0.51822 3.62757,-1.55467 1.55468,-1.03645 2.48745,-2.48748 1.03645,-1.55468 1.03645,-3.52394 z m 2.79844,27.77686 q 0,-2.59113 -1.24376,-4.35311 -1.14009,-1.86559 -3.00568,-2.90204 -1.86562,-1.14009 -4.24947,-1.55467 -2.28017,-0.51823 -4.56035,-0.51823 h -9.74263 v 18.65609 h 9.74263 q 2.69477,0 5.07858,-0.51823 2.38384,-0.51822 4.14579,-1.55467 1.76199,-1.14009 2.79844,-2.90207 1.03645,-1.76195 1.03645,-4.35307 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path1148"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 482.52092,552.31058 q 0,7.56606 -2.07289,13.88843 -2.0729,6.32234 -6.11506,10.98636 -4.04216,4.56038 -9.94991,7.1515 -5.80414,2.59109 -13.3702,2.59109 -7.98068,0 -13.99207,-2.69476 -5.90778,-2.7984 -9.84626,-7.46242 -3.93852,-4.66402 -5.90779,-10.98635 -1.96922,-6.32234 -1.96922,-13.47385 0,-7.56609 2.0729,-13.88842 2.17653,-6.32234 6.21869,-10.88272 4.04213,-4.56038 9.94991,-7.15151 5.90775,-2.59112 13.47384,-2.59112 7.87701,0 13.78475,2.79843 6.01142,2.69477 9.84627,7.46243 3.93852,4.66402 5.90778,10.98635 1.96926,6.2187 1.96926,13.26656 z m -13.99206,0 q 0,-23.94197 -17.516,-23.94197 -17.61964,0 -17.61964,23.94197 0,24.04561 17.61964,24.04561 17.516,0 17.516,-24.04561 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path1150"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="M 531.95954,585.68424 507.9139,552.31058 v 33.37366 h -13.68112 v -66.64367 h 13.68112 v 28.60599 l 22.18002,-28.60599 h 15.75401 l -23.52738,29.84972 26.32582,36.79395 z"
-             inkscape:connector-curvature="0" />
+           id="g883"
+           transform="matrix(0.61570032,0,0,0.61570032,118.12346,-22.038441)"
+           inkscape:export-filename="/home/khairulimam/workspaces/lombokdev/assets/designs/outs/lombokdev-squared-black-hd.png"
+           inkscape:export-xdpi="1999.7533"
+           inkscape:export-ydpi="1999.7533">
+          <g
+             inkscape:export-filename="/home/khairulimam/workspaces/lombokdev/assets/designs/outs/lombokdev-white-hd.png"
+             transform="matrix(0.16111717,0,0,0.16111717,222.29121,-25.855869)"
+             id="g1138"
+             inkscape:export-xdpi="2001.4048"
+             inkscape:export-ydpi="2001.4048"
+             style="fill:#007bff;fill-opacity:1">
+            <path
+               inkscape:connector-curvature="0"
+               id="path1128"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 592.20698,593.87198 v 7.46242 H 588.994 q -12.9038,0 -17.30869,-3.83485 -4.35311,-3.83484 -4.35311,-15.2876 v -12.38558 q 0,-7.82519 -2.7984,-10.8309 -2.79843,-3.0057 -10.15722,-3.0057 h -3.16116 v -7.41061 h 3.16116 q 7.4106,0 10.15722,-2.95389 2.7984,-3.00571 2.7984,-10.72726 v -12.43739 q 0,-11.45276 4.35311,-15.23579 4.40489,-3.83485 17.30869,-3.83485 h 3.21298 v 7.4106 h -3.52393 q -7.30697,0 -9.53532,2.28018 -2.22836,2.28021 -2.22836,9.58717 v 12.85194 q 0,8.13614 -2.38385,11.81553 -2.33199,3.67939 -8.03246,4.97497 5.75229,1.39922 8.08428,5.07861 2.33203,3.67939 2.33203,11.76368 v 12.85197 q 0,7.30697 2.22836,9.58718 2.22835,2.28017 9.53532,2.28017 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1130"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 667.71232,550.65206 q 0,8.2916 -2.69476,14.51029 -2.6948,6.2187 -7.46246,10.46813 -4.76766,4.1458 -11.2973,6.32234 -6.42597,2.07289 -13.99207,2.07289 h -20.21072 v -66.64366 h 20.21072 q 7.98068,0 14.51029,2.28017 6.52965,2.28018 11.19367,6.52965 4.66402,4.24943 7.15151,10.46813 2.59112,6.11502 2.59112,13.99206 z m -13.68115,0 q 0,-22.69824 -21.76544,-22.69824 h -6.5296 v 45.50013 h 6.5296 q 21.76544,0 21.76544,-22.80189 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1132"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 679.42418,584.02571 v -66.64366 h 43.94545 v 10.57177 H 692.5871 v 16.47955 h 28.91691 v 10.05354 H 692.5871 v 18.96704 h 31.71534 v 10.57176 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1134"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 772.49733,584.02571 h -16.27227 l -24.56383,-66.64366 h 14.71756 l 18.34517,51.3042 18.55242,-51.3042 h 14.61396 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1136"
+               style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 812.19332,593.87198 h 3.62757 q 7.25515,0 9.43168,-2.22835 2.22836,-2.22839 2.22836,-9.639 v -12.85197 q 0,-8.08429 2.33203,-11.76368 2.33199,-3.67939 8.08431,-5.07861 -5.75232,-1.29558 -8.08431,-4.97497 -2.33203,-3.67939 -2.33203,-11.81553 v -12.85194 q 0,-7.35878 -2.22836,-9.58717 -2.17653,-2.28018 -9.43168,-2.28018 h -3.62757 v -7.4106 h 3.2648 q 12.9038,0 17.20505,3.83485 4.35311,3.78303 4.35311,15.23579 v 12.43739 q 0,7.72155 2.7984,10.72726 2.79843,2.95389 10.15722,2.95389 h 3.21298 v 7.41061 h -3.21298 q -7.35879,0 -10.15722,3.0057 -2.7984,3.00571 -2.7984,10.8309 v 12.38558 q 0,11.45276 -4.35311,15.2876 -4.30125,3.83485 -17.20505,3.83485 h -3.2648 z" />
+          </g>
+          <g
+             inkscape:export-filename="/home/khairulimam/workspaces/lombokdev/assets/designs/outs/lombokdev-white-hd.png"
+             transform="matrix(0.16111717,0,0,0.16111717,222.29121,-25.855869)"
+             id="g1152"
+             inkscape:export-xdpi="2001.4048"
+             inkscape:export-ydpi="2001.4048"
+             style="fill:#000000">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 146.815,585.68424 v -66.64367 h 13.68112 v 56.0719 h 30.16067 v 10.57177 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path1140" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 261.13533,552.31058 q 0,7.56606 -2.07289,13.88843 -2.0729,6.32234 -6.11506,10.98636 -4.04213,4.56038 -9.94991,7.1515 -5.80411,2.59109 -13.3702,2.59109 -7.98065,0 -13.99206,-2.69476 -5.90775,-2.7984 -9.84627,-7.46242 -3.93849,-4.66402 -5.90775,-10.98635 -1.96926,-6.32234 -1.96926,-13.47385 0,-7.56609 2.0729,-13.88842 2.17653,-6.32234 6.21869,-10.88272 4.04216,-4.56038 9.94991,-7.15151 5.90778,-2.59112 13.47384,-2.59112 7.87704,0 13.78479,2.79843 6.01142,2.69477 9.84627,7.46243 3.93852,4.66402 5.90774,10.98635 1.96926,6.2187 1.96926,13.26656 z m -13.99206,0 q 0,-23.94197 -17.516,-23.94197 -17.61964,0 -17.61964,23.94197 0,24.04561 17.61964,24.04561 17.516,0 17.516,-24.04561 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path1142" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 332.65033,585.68424 v -55.3464 l -16.79046,55.3464 h -13.3702 l -16.79047,-55.3464 v 55.3464 h -12.85197 v -66.64367 h 22.07634 l 14.30302,48.19489 14.30301,-48.50584 h 22.17999 v 66.95462 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path1144" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 409.34758,568.47919 q 0,4.24943 -2.17654,7.46242 -2.17653,3.21302 -5.49319,5.38955 -3.31663,2.17654 -7.25515,3.31663 -3.93848,1.03645 -7.46242,1.03645 H 358.6652 v -66.64367 h 27.36227 q 3.93852,0 7.56609,1.03645 3.62758,1.03645 6.32234,3.10935 2.7984,1.96922 4.45674,5.07857 1.65831,3.00571 1.65831,7.04787 0,3.31662 -1.14008,5.80411 -1.03645,2.38385 -2.79844,4.24943 -1.76195,1.86563 -4.24943,3.31666 -2.38385,1.34737 -4.97497,2.48749 3.62757,1.14008 6.63328,2.48745 3.00571,1.3474 5.18225,3.42029 2.17653,1.96927 3.42029,4.76766 1.24373,2.79844 1.24373,6.63329 z M 392.3498,538.00757 q 0,-2.17654 -0.93277,-3.73121 -0.93281,-1.55467 -2.38385,-2.59112 -1.45104,-1.03645 -3.31662,-1.55468 -1.76199,-0.51822 -3.62758,-0.51822 h -9.74263 v 16.47955 h 8.80982 q 2.0729,0 4.04216,-0.51823 2.0729,-0.51822 3.62757,-1.55467 1.55468,-1.03645 2.48745,-2.48748 1.03645,-1.55468 1.03645,-3.52394 z m 2.79844,27.77686 q 0,-2.59113 -1.24376,-4.35311 -1.14009,-1.86559 -3.00568,-2.90204 -1.86562,-1.14009 -4.24947,-1.55467 -2.28017,-0.51823 -4.56035,-0.51823 h -9.74263 v 18.65609 h 9.74263 q 2.69477,0 5.07858,-0.51823 2.38384,-0.51822 4.14579,-1.55467 1.76199,-1.14009 2.79844,-2.90207 1.03645,-1.76195 1.03645,-4.35307 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path1146" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 482.52092,552.31058 q 0,7.56606 -2.07289,13.88843 -2.0729,6.32234 -6.11506,10.98636 -4.04216,4.56038 -9.94991,7.1515 -5.80414,2.59109 -13.3702,2.59109 -7.98068,0 -13.99207,-2.69476 -5.90778,-2.7984 -9.84626,-7.46242 -3.93852,-4.66402 -5.90779,-10.98635 -1.96922,-6.32234 -1.96922,-13.47385 0,-7.56609 2.0729,-13.88842 2.17653,-6.32234 6.21869,-10.88272 4.04213,-4.56038 9.94991,-7.15151 5.90775,-2.59112 13.47384,-2.59112 7.87701,0 13.78475,2.79843 6.01142,2.69477 9.84627,7.46243 3.93852,4.66402 5.90778,10.98635 1.96926,6.2187 1.96926,13.26656 z m -13.99206,0 q 0,-23.94197 -17.516,-23.94197 -17.61964,0 -17.61964,23.94197 0,24.04561 17.61964,24.04561 17.516,0 17.516,-24.04561 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path1148" />
+            <path
+               inkscape:connector-curvature="0"
+               d="M 531.95954,585.68424 507.9139,552.31058 v 33.37366 h -13.68112 v -66.64367 h 13.68112 v 28.60599 l 22.18002,-28.60599 h 15.75401 l -23.52738,29.84972 26.32582,36.79395 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Padauk Book';-inkscape-font-specification:'Padauk Book, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path1150" />
+          </g>
         </g>
       </g>
       <g
